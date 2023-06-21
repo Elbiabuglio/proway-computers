@@ -53,7 +53,7 @@ The following tools were used in building the project:<br><br>
   <img height =' 100px ' left=' 20px ' src="https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2020/08/Proposed.png?resize=720%2C480&ssl=1"/>
   <br>
   <h3>Frontend</h3>
-  <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img width =' 100px ' src="https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" />
   <img width =' 100px ' left=' 20px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width =' 100px ' left=' 20px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <br>
@@ -70,7 +70,7 @@ The following tools were used in building the project:<br><br>
         </li>
         <li &nbsp;>Clone the repository
         <ul>
-            <li>git clone https://github.com/alexandrecpedro/proway-computers</li>
+            <li>git clone https://github.com/Elbiabuglio/proway-computers</li>
         </ul>
         </li>
         <li &nbsp;>Enter the project directory:
