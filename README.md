@@ -18,8 +18,10 @@
 <br>
 
 <div id="theproject">
-<h2> 📓 The Project </h2>
-<p> ProWay Computers ecommerce platform </p>
+<h2> 📌 Resumo do Projeto </h2>
+<p> O projeto trata-se de um ecommerce de produtos de informática, onde o usuário será capaz de escolher o produto, adicionar ao carrinho de compras e finalizar sua compra.
+
+ </p>
 </div>
 
 <div id="target">
