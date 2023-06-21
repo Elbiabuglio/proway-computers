@@ -60,7 +60,7 @@ The following tools were used in building the project:<br><br>
 </div>
 
 <div id="howtouse">
-<h2>🧪 How to use</h2>
+<h2>🛠️ Abrir e rodar o projeto</h2>
     <ol &nbsp;>
         <li &nbsp;>Set the development environment at you local computer
             <ul>
