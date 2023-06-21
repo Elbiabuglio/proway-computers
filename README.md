@@ -88,6 +88,7 @@ The following tools were used in building the project:<br><br>
                 <li &nbsp;>Após a instalação do projeto, execute o comando abaixo para inicializar o projeto:
                     <ul>
                         <li>npm run dev OR ng serve --open</li>
+                        <li>npm start</li>
                         <li>Navigate to `http://localhost:4200/`</li>
                     </ul>
                 </li>
