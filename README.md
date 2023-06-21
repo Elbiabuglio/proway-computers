@@ -73,7 +73,7 @@ The following tools were used in building the project:<br><br>
             <li>git clone https://github.com/Elbiabuglio/proway-computers</li>
         </ul>
         </li>
-        <li &nbsp;>Enter the project directory:
+        <li &nbsp;>Para Rodar o projeto em sua máquina, dentro da pasta raiz do projeto, execute o comando abaixo no terminal, para a instalação das depêndencias:
         <ul>
             <li>cd ProWayComputers</li>
         </ul>
