@@ -26,21 +26,21 @@
 
 <div id="target">
 <h2> 💡 Target </h2>
-Development of ProWay Computers ecommerce platform at Start program from Capgemini
+Desenvolvimento da plataforma de ecommerce ProWay Computers no programa Start da Capgemini
 </div>
 <br>
 
-<div id="technologies">
-<h2> 🛠 Technologies </h2>
-The following tools were used in building the project:<br><br>
+<div id="tecnologias">
+<h2> 🛠 Tecnologias </h2>
+As seguintes ferramentas foram utilizadas na construção do projeto:<br><br>
 
 |                       Type                       |           Tools           |            References             |
 | :----------------------------------------------: | :-----------------------: | :-------------------------------: |
 |                       IDE                        |          VS CODE          |  https://code.visualstudio.com/    |
-|             Programming Language                 |          ANGULAR          |       https://reactjs.org/                 |
-|             Programming Language                 |        JAVASCRIPT         |     https://reactnative.dev/                 |
-|             Programming Language                 |        TYPESCRIPT         |  https://www.typescriptlang.org/  |
-|              Graphic components                  |       FONT AWESOME        |  https://fontawesome.com/                 |
+|         Linguagem de programação                 |          ANGULAR          |       https://reactjs.org/                 |
+|         Linguagem de programação                 |        JAVASCRIPT         |     https://reactnative.dev/                 |
+|         Linguagem de programação                 |        TYPESCRIPT         |  https://www.typescriptlang.org/  |
+|            Componentes gráficos                  |       FONT AWESOME        |  https://fontawesome.com/                 |
 |       Angular Material UI Component Library      |     ANGULAR MATERIAL      | https://material.angular.io/                  |
 
 <br>
@@ -62,13 +62,13 @@ The following tools were used in building the project:<br><br>
 <div id="howtouse">
 <h2>🛠️ Abrir e rodar o projeto</h2>
     <ol &nbsp;>
-        <li &nbsp;>Set the development environment at you local computer
+        <li &nbsp;>Defina o ambiente de desenvolvimento em seu computador local
             <ul>
                 <li>Install VS Code</li>
                 <li>Install Angular-CLI</li>
             </ul>
         </li>
-        <li &nbsp;>Clone the repository
+        <li &nbsp;>Clonar o repositório
         <ul>
             <li>git clone https://github.com/Elbiabuglio/proway-computers</li>
         </ul>
@@ -78,9 +78,9 @@ The following tools were used in building the project:<br><br>
             <li>cd ProWayComputers</li>
         </ul>
         </li>
-        <li><b>Testing</b>
+        <li><b>teste</b>
             <ul>
-                <li &nbsp;>Install the dependencies
+                <li &nbsp;>Instale as dependências
                     <ul>
                         <li>npm install</li>
                     </ul>
@@ -89,7 +89,7 @@ The following tools were used in building the project:<br><br>
                     <ul>
                         <li>npm run dev OR ng serve --open</li>
                         <li>npm start</li>
-                        <li>Navigate to `http://localhost:4200/`</li>
+                        <li>Navegue até `http://localhost:4200/`</li>
                     </ul>
                 </li>
             </ul>
